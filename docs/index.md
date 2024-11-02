@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+# 👋 Hello, I'm Rajaswa Patil
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+**AI Engineer** 👨‍💻 **Freelance Consultant**
 
-## Commands
+Welcome to my website! I am passionate about leveraging Generative AI to build scalable and impactful AI-driven products. I help teams and companies develop and deploy AI products through consulting and engineering. Feel free to explore my work or reach out to discuss potential collaborations!
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
+## 📨 Let's Connect!
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Feel free to reach out if you want to collaborate or chat about AI Product Development, AI Research, or anything in between!
+
+[![Email](https://img.shields.io/badge/Email-patilrajaswa%40gmail.com-red?style=flat-square&logo=gmail)](mailto:patilrajaswa@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajaswa%20Patil-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/rajaswa-patil)
+[![X](https://img.shields.io/badge/X-Follow%20%40RajaswaPatil-black?style=flat-square&logo=x)](https://x.com/RajaswaPatil)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Rajaswa%20Patil-black?style=flat-square&logo=github)](https://github.com/rajaswa)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Rajaswa%20Patil-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=79uJMXsAAAAJ)
+
+---
