@@ -2,6 +2,12 @@ site_name: Rajaswa Patil
 site_url: https://rajaswapatil.com
 theme:
   name: material
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+plugins:
+  - search
 extra:
   analytics:
     provider: google
