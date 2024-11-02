@@ -2,3 +2,18 @@ site_name: Rajaswa Patil
 site_url: https://rajaswapatil.com
 theme:
   name: material
+extra:
+  analytics:
+    provider: google
+    property: G-686PKP2V2V
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:patilrajaswa@gmail.com
+    - icon: fontawesome/brands/twitter
+      link: https://x.com/RajaswaPatil
+    - icon: fontawesome/brands/github
+      link: https://github.com/rajaswa
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/rajaswa-patil
+    - icon: fontawesome/brands/google-scholar
+      link: https://scholar.google.com/citations?user=79uJMXsAAAAJ
