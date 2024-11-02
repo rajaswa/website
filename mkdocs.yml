@@ -6,6 +6,22 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+  palette:
+    - scheme: default 
+      primary: black 
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: white
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
 plugins:
   - search
 extra:
