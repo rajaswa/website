@@ -7,3 +7,9 @@ At [**Postman**](https://www.postman.com/), I led the architecture design and ba
 Prior to this, at [**TCS Research**](https://www.tcs.com/what-we-do/research), I contributed to research on NLP for Programming, focusing on Text-to-SQL semantic parsing, parameter-efficient fine-tuning, and multimodal document question answering. My short stint at [**Cognizer AI**](https://cognizer.ai/) as a Data Scientist involved developing NLP models for the [**Cognizer Genius**](https://cognizer.ai/genius) platform, specializing in tasks like question generation, grammar correction, and text simplification - addressing key needs in automation and language processing.
 
 Today, as an independent consultant, I specialize in building tailored AI solutions that align with my clients' business goals and maximize impact.
+
+---
+
+*Note: Please refer to my LinkedIn for further details on my experience.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajaswa%20Patil-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/rajaswa-patil)

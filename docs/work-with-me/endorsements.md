@@ -30,6 +30,7 @@ Below are products and services I've personally used or explored extensively and
 
 ## Requesting an Introduction
 
-*If you'd like to connect with any of these teams or individuals, please [contact me](mailto:patilrajaswa@gmail.com) for an introduction.*
+*If you'd like to connect with any of these teams or individuals, please [contact me over email](mailto:patilrajaswa@gmail.com) for an introduction.*
 
 
+[![Email](https://img.shields.io/badge/Email-patilrajaswa%40gmail.com-red?style=flat-square&logo=gmail)](mailto:patilrajaswa@gmail.com)

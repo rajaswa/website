@@ -1,3 +1,9 @@
+## Tools
+
+WIP :warning:
+
+---
+
 ## Applications
 
 ---
@@ -13,6 +19,6 @@
 
 ---
 
-## Tools
+*Note: Please refer to my GitHub for further details on my open-source contributions.*
 
-WIP :warning:
+[![GitHub](https://img.shields.io/badge/GitHub-Rajaswa%20Patil-black?style=flat-square&logo=github)](https://github.com/rajaswa)
