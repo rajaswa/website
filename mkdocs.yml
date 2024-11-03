@@ -3,9 +3,21 @@ site_url: https://rajaswapatil.com
 theme:
   name: material
   features:
-    - search.suggest
+    - header.autohide
+    - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
     - search.highlight
     - search.share
+    - search.suggest
+    - toc.follow
   palette:
     - scheme: default 
       primary: black 
@@ -39,3 +51,22 @@ extra:
       link: https://linkedin.com/in/rajaswa-patil
     - icon: fontawesome/brands/google-scholar
       link: https://scholar.google.com/citations?user=79uJMXsAAAAJ
+  generator: false
+nav:
+  - About:
+    - Introduction: index.md
+    - Experience: about/experience.md
+  - Portfolio:
+    - Product: portfolio/products.md
+    - Research: portfolio/research.md
+    - Open Source: portfolio/open-source.md
+  - Work With Me:
+    - Consulting Services: work-with-me/consulting.md
+    - Testimonials: work-with-me/testimonials.md
+    - Endorsements: work-with-me/endorsements.md
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+copyright: Copyright &copy; Rajaswa Patil 2024

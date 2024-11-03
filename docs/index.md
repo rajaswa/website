@@ -1,8 +1,6 @@
-# 👋 Hello, I'm Rajaswa Patil
+# 👋 Hello!
 
-**AI Engineer** 👨‍💻 **Freelance Consultant**
-
-Welcome to my website! I am passionate about leveraging Generative AI to build scalable and impactful AI-driven products. I help teams and companies develop and deploy AI products through consulting and engineering. Feel free to explore my work or reach out to discuss potential collaborations!
+I am an independent AI Engineer and Consultant, passionate about leveraging Generative AI to build scalable and impactful products and solutions. I help teams and companies develop and deploy AI products through consulting and engineering. Feel free to explore my work or reach out to discuss potential collaborations!
 
 ---
 
