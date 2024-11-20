@@ -35,6 +35,25 @@ theme:
     text: Roboto
     code: Roboto Mono
 plugins:
+  - blog:
+      blog_dir: notes
+      authors: true
+      authors_file: "{blog}/.authors.yml"
+      authors_profiles: true
+      authors_profiles_name: Authors
+      authors_profiles_url_format: "author/{slug}"
+      blog_toc: true
+      categories_name: Topics
+      categories_url_format: "category/{slug}"
+      draft: false
+      pagination: true
+      pagination_per_page: 5
+      pagination_url_format: "page/{page}"
+      post_dir: "{blog}/posts"
+      post_date_format: long
+      post_readtime: true
+      post_url_date_format: yyyy/MM/dd
+      post_url_format: "{date}/{slug}"
   - search
 extra:
   analytics:
@@ -64,6 +83,8 @@ nav:
     - Consulting Services: work-with-me/consulting.md
     - Testimonials: work-with-me/testimonials.md
     - Endorsements: work-with-me/endorsements.md
+  - Notebook:
+    - notes/index.md
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
