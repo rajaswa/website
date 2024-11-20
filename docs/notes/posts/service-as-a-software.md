@@ -4,6 +4,7 @@ authors:
 categories:
   - Research Notes
   - Agentic AI
+  - Service as a Software
 comments: true
 date: 2024-11-20
 description: A collection of my live survey and research on service as a software.
@@ -15,7 +16,12 @@ tags:
 
 # Service as a Software (Research Notes)
 
+Running notes on the AI-driven service-as-a-software landscape.
+
 <!-- more -->
+
+## 0. Other Relevant Resources
+1. [RIP to RPA: The Rise of Intelligent Automation](https://a16z.com/rip-to-rpa-the-rise-of-intelligent-automation/)
 
 ## 1. Horizontal Plays
 
